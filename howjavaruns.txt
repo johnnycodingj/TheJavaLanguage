@@ -1,0 +1,7 @@
+-when you run Java code, it's compiled into bytecode, and that bytecode can run anywhere. javac(the java compiler turns the java code into byte code). the JVM (the java virtual machine) is what reads the byte code. the jvm turns the byte code into machine code and hands it to the cpu for execution. 
+
+-The sandbox is a restricted environment inside the JVM where Java code runs with limited permissions to protect your system from harmful operations. 
+
+-The JIT compiler improves Java performance by compiling bytecode into native machine code at runtime.
+
+the jvm turning the byte code into machine code is what allows for java code to be run anywere 
